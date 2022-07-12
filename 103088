@@ -1,0 +1,53 @@
+// comment can make code readable.
+
+//welcome to 30days of javaacript 
+
+/*comment can make code readable easy to reuse and informative*/
+
+let variable = '';
+true
+let firstName
+console.log(firstName)
+let emptyValue = null
+
+
+
+
+ console.log(typeof "");
+console.log(typeof true);
+console.log(typeof []);
+console.log(typeof Null);
+console.log(typeof 3);
+ 
+
+ /*let numOne = ;
+  let numTwo = ;
+   let numThree = ; 
+    let numFour = ;*/
+    
+     let num1 = 'array';
+  let num2 = 'functions';
+   let num3= 'operation';
+    let num4 = 'Object';
+    
+    
+    let fistName = 'hussain';let surname = 'adamu';let maritalStatus = 'single';let country = 'Nigeria';let age = 18;
+    
+    
+    let myAge = 'i am 18 year old';
+    let yourAge =  'you are 20 years old';
+    console.log(myAge);
+    console.log(yourAge);
+    
+    
+    
+    
+    
+
+
+
+
+ 
+
+
+  
